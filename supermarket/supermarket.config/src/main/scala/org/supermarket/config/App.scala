@@ -1,0 +1,9 @@
+package org.supermarket.config
+
+/**
+ * Hello world!
+ *
+ */
+object App extends Application {
+  println( "Hello World!" )
+}
